@@ -1,3 +1,11 @@
+/**
+ * @name MaterialEdit
+ * @author Jmazi
+ * @version 1.0.0
+ * @description Material edit theme for betterdiscord.
+ * @source https://github.com/Quonius/JmazisDiscordMaterialEdit
+ */
+
 @import url("https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/icons.css");
 :root {
   --app-font: "Google Sans";
